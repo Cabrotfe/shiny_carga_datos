@@ -1,0 +1,13 @@
+name: shiny_carga_datos
+title: shiny_carga_datos
+username:
+account: cabrotfe
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7556056
+bundleId: 6487142
+url: https://cabrotfe.shinyapps.io/shiny_carga_datos/
+when: 1667876261.79235
+lastSyncTime: 1667876261.79235
+asMultiple: FALSE
+asStatic: FALSE
